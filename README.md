@@ -1,4 +1,4 @@
-![logo](https://github.com/jummun513/jummun513/blob/main/cover_image.png)
+![logo](https://github.com/jummun513/jummun513/blob/main/cover_image.jpg)
 <h1 align="center">Hi 👋, I'm Md. Jummun Islam Jaber</h1>
 <h3 align="center">A front-end junior web developer.</h3>
 
@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jummun513" alt="jummun513" /></a> </p>
 
-- 💬 Ask me about **React, Node.js, Next.js**
+- 💬 Ask me about **HTML5, CSS3, Javascript, Typescript, React.js, Redux.js, Next.js, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **jummunislam513@gmail.com**
+- 📫 How to reach me **jummunislam513@gmail.com** | [**My Resume**](https://drive.google.com/file/d/1n-B8viNxIUg2vi5Ei4ZwLNca9oRLFR7y/view?usp=drive_link) | [**My website**](https://jummunislam.netlify.app)
 
 - ⚡ Fun fact **I am healthy but not wealthy.😑**
 
